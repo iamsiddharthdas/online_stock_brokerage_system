@@ -6,23 +6,24 @@ It also provides security for their transactions and alerts them to pre-defined 
 The online stock brokerage system automates traditional stock trading using computers and the internet, making the transaction faster and cheaper. 
 This system also gives speedier access to stock reports, current market trends, and real-time stock prices.
 
-CONTENTS                            PAGES
 
-•	Acknowledgement…………………………………………………..2                     
-•	Abstract…………………………………………………………….....3
-•	Use-Case Diagram………………………………………………..4-5
-•	Class Diagram……………………………………………………...6-8
-•	Activity Diagram………………………………………………….9-10
-•	Component Diagram………………………………………………..11
-•	Deployment Diagram……………………………………………..12
-•	Object Diagram……………………………………………………...13
-•	Sequence Diagram……………………………………………..14-17
-•	State Machine Diagram…………………………………………18
-•	Collaboration Diagram……………………………………….19
-•	Present System vs Proposed System…..20-21
-•	System Requirements………………………………………………22
-•	System Structure………………………………………………….23-24
-•	Database & Codes………………………………………………..25-39
-•	Conclusion………………………………………………………….....40
-•	References………………………………………………………….....41
+CONTENTS   
+
+•	Acknowledgement                    
+•	Abstract
+•	Use-Case Diagram
+•	Class Diagram
+•	Activity Diagram
+•	Component Diagram
+•	Deployment Diagram
+•	Object Diagram
+•	Sequence Diagram
+•	State Machine Diagram
+•	Collaboration Diagram
+•	Present System vs Proposed System
+•	System Requirements
+•	System Structure
+•	Database & Codes (SQL)
+•	Conclusion
+•	References
 
