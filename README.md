@@ -9,8 +9,8 @@ This system also gives speedier access to stock reports, current market trends, 
 
 CONTENTS   
 
-•	Acknowledgement                    
-•	Abstract
+•	Acknowledgement/n                   
+•	Abstract/n
 •	Use-Case Diagram
 •	Class Diagram
 •	Activity Diagram
