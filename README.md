@@ -7,6 +7,8 @@ The online stock brokerage system automates traditional stock trading using comp
 This system also gives speedier access to stock reports, current market trends, and real-time stock prices.
 
 
+
+
 **CONTENTS**   
 
 *	Acknowledgement                  
